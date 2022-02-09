@@ -4,7 +4,7 @@ Interaktívny kurz pozostávajúci z Jupyter notebookov bežiacich online na ser
 
 Tri spôsoby prehliadania/sťahovania súborov v tomto úložisku: 
 
-* Kliknutím na ikonu [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gajdosandrej/MTIa.git/HEAD) spustíte interaktívne úložisko.  Prvé spustenie resp. načítanie môže trvať až niekoľko minút (môže sa to stať aj inokedy pri preťaženosti serverov). Po načítaní interaktívneho úložiska (všetkých jeho adresárov) je potrebné otvoriť priečinok s názvom "MTIb" a v ňom si môžete prehliadať/spúštať/sťahovať materiály k jednotlivým témam kurzu.  
+* Kliknutím na ikonu [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gajdosandrej/MTIa.git/HEAD) spustíte interaktívne úložisko.  Prvé spustenie resp. načítanie môže trvať až niekoľko minút (môže sa to stať aj inokedy pri preťaženosti serverov). Po načítaní interaktívneho úložiska (všetkých jeho adresárov) je potrebné otvoriť priečinok s názvom "MTIa" a v ňom si môžete prehliadať/spúštať/sťahovať materiály k jednotlivým témam kurzu.  
 
 
 * Kliknutím na ikonu [![nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/gajdosandrej/MTIa/blob/main/index_MTIa.ipynb) spustíte prehliadanie/sťahovanie Jupyter notebookov v statickom režime pomocou nbviewer (výnimkou sú 3D grafy, ktoré je možné otáčať/približovať). 
